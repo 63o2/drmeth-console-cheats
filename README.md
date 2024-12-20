@@ -1,10 +1,7 @@
-```
+
 # drmeth-console-cheats
 Pretty hard to find these online ive noticed, so i decided to find and post them myself!
-
-
-
-
+```
 ----------------------[houses (items)]----------------------
 * start by opening up the console by clicking F12 or using selecting more tools.
   - type 'houses' and click enter.
