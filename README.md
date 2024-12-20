@@ -1,3 +1,4 @@
+```
 # drmeth-console-cheats
 Pretty hard to find these online ive noticed, so i decided to find and post them myself!
 
@@ -19,3 +20,4 @@ Pretty hard to find these online ive noticed, so i decided to find and post them
   - now, this is even easier.
   - you can simply type accomp[x][2] = 1 // 0 being locked, 1 being unlocked.
   - now, for 'x', that can be any number 0-22 as there is a total of 22 achievements. have fun!
+```
